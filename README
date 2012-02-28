@@ -1,0 +1,5 @@
+Client for ふぁぼったー ( http://favotter.net )
+
+    It gets html resource from the site asynchronously using Boost.Asio,
+    and pulls out most faved tweets today with regex using Boost.Xpressive,
+    and finally shows the tweets as timeline on CUI interface.
